@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;UserServiceI.java&apos; to &apos;Bikkadiit/src/main/java/com.service&apos;&#x0D;&#x0A;- Original project: &apos;BikkadIT-04-Mvc-Crud-Operation&apos;&#x0D;&#x0A;- Destination element: &apos;Bikkadiit/src/main/java/com.service&apos;&#x0D;&#x0A;- Original element: &apos;com.BikkadIT.service.UserServiceI.java&apos;" description="Copy compilation unit" destination="=Bikkadiit/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.service" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.BikkadIT.service{UserServiceI.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1668168787370" units="1" version="1.0"/>
+</session>
